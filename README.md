@@ -4,7 +4,7 @@ This is my solution to the [Frontend Mentor Interactive Comments Section challen
 
 A responsive, interactive comments application built with React and TypeScript. Users can create comments, reply to existing comments, edit and delete their own comments, vote on comments, and persist their changes using `localStorage`.
 
-Live Site:
+Live Site: https://incredible-kheer-31fa7d.netlify.app/
 
 ## Table of Contents
 
